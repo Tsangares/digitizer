@@ -1,0 +1,10 @@
+env
+env/
+env/*
+*~
+\#**\#
+__pycache__
+digitizer.egg-info
+dist
+dist/
+dist/*
